@@ -1,11 +1,11 @@
 {
-  "name": "Masjid Muadhh",
+  "name": "Template Mosque",
   "address": "",
-  "lat": 20.2,
-  "lon": 34.56,
+  "lat": 0,
+  "lon": 0,
   "calc_method": 2,
   "school": 0,
   "theme": "default",
   "show_eid": false,
-  "created_iso": "2025-09-14T10:06:19.212679Z"
+  "created_iso": "2025-01-01T00:00:00Z"
 }
